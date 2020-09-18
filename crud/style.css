@@ -1,0 +1,17 @@
+/*LISTA*/
+ul, li {
+    list-style-type: none;
+}
+
+/*css clicavel*/
+.clicavel {
+    cursor: pointer;
+}
+
+.deleteButton {
+    color: white;
+    font-weight: bold;
+    background-color: darkred;
+    margin-right: 10px;
+    border-radius: 50%;
+}
